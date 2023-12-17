@@ -1,2 +1,2 @@
-# MernStack-chatGPT-Clone
-complete mern stack chat gpt clone 
+# MernStack-AI GPT3
+complete mern stack AI GPT3 App
